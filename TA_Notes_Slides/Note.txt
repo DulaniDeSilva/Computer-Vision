@@ -1,0 +1,1 @@
+Some slide content has been adapted from the publicly available course materials of Georgia Institute of Technology CS6476: Computer Vision. The copyright and intellectual credit for those materials remain with their original creators. Other slides and explanations were developed independently.
